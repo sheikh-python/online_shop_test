@@ -1,5 +1,8 @@
 print("ahmad")
 
+# hello my friends I'm nikradddd
+
+
 # python
 # scratch
 # django
