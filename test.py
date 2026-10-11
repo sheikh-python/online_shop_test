@@ -23,3 +23,15 @@ print("ahmad")
 #    ||
 
 # repository
+
+#    ||
+#    || git push
+#    ||
+
+#   github
+
+#    ||
+#    || git pull
+#    ||
+
+# repository
